@@ -11,6 +11,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 ## App Video Demo Link
 
+https://www.youtube.com/watch?v=zuGmygDT9NM&ab_channel=Natewinderic
 
 
 ## App Description
@@ -107,13 +108,7 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality readme with description and a link to a walkthrough video.
 
-## Review
 
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
